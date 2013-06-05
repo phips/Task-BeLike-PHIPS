@@ -28,7 +28,7 @@ requires:
   Modern::Perl: 0
   Module::Install: 0
   Module::Install::GithubMeta: 0
-  Mojolicious: 0
+  Mojolicious: 4
   Perl6::Export::Attrs: 0
   Perl::Critic: 0
   Perl::Tidy: 0

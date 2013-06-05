@@ -7,7 +7,7 @@ version_from 'lib/Task/BeLike/PHIPS.pm';
 license      'perl';
 githubmeta;
 
-requires 'perl' => '5.010001';
+requires 'perl'                         => '5.010001';
 
 requires 'Modern::Perl';
 requires 'Devel::NYTProf';
@@ -20,7 +20,7 @@ requires 'ExtUtils::MakeMaker';
 requires 'Module::Install::GithubMeta';
 
 requires 'IO::Socket::SSL';
-requires 'Mojolicious';
+requires 'Mojolicious'                  => 4;
 requires 'Plack';
 requires 'WWW::Mechanize';
 requires 'WWW::RobotRules';
