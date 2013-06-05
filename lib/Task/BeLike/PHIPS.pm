@@ -6,7 +6,7 @@ use 5.010;
 use vars qw{$VERSION};
 
 BEGIN {
-    $VERSION = '0.0.1';
+    $VERSION = '0.0.2';
 }
  
 1;
@@ -20,7 +20,7 @@ Task::BeLike::PHIPS - My favourite and frequently used modules
 
 =head1 VERSION
 
-This document describes Task::BeLike::PHIPS version 0.0.1
+This document describes Task::BeLike::PHIPS version 0.0.2
 
 
 =pkgroup Perl development tools
@@ -93,7 +93,7 @@ This document describes Task::BeLike::PHIPS version 0.0.1
 
 =head1 AUTHOR
 
-Mark Phillips  C<< <mark@probably.co.uk> >>
+Mark Phillips  C<< <phips@cpan.org> >>
 
 
 =head1 LICENCE AND COPYRIGHT
