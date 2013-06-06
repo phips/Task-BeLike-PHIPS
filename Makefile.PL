@@ -35,5 +35,6 @@ requires 'YAML::XS';
 
 requires 'App::cpanoutdated';
 requires 'Pod::Cpandoc';
+requires 'Test::Pod';
 
 WriteAll;

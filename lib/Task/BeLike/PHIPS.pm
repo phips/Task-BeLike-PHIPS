@@ -6,7 +6,7 @@ use 5.010;
 use vars qw{$VERSION};
 
 BEGIN {
-    $VERSION = '0.0.2';
+    $VERSION = '0.0.3';
 }
  
 1;
@@ -20,75 +20,74 @@ Task::BeLike::PHIPS - My favourite and frequently used modules
 
 =head1 VERSION
 
-This document describes Task::BeLike::PHIPS version 0.0.2
+version 0.0.3
+
+=head1 TASK CONTENTS
+
+=head2 Perl development tools
+
+=head3 L<Modern::Perl>
+
+=head3 L<Devel::NYTProf>
+
+=head3 L<DDP>
+
+=head3 L<Module::Install>
+
+=head3 L<Perl::Tidy>
+
+=head3 L<Perl::Critic>
+
+=head3 L<Perl6::Export::Attrs>
+
+=head3 L<ExtUtils::MakeMaker>
+
+=head3 L<Module::Install::GithubMeta;>
 
 
-=pkgroup Perl development tools
+=head2 Web
 
-=pkg Modern::Perl
+=head3 L<IO::Socket::SSL>
 
-=pkg Devel::NYTProf
+=head3 L<Mojolicious>
 
-=pkg DDP
+=head3 L<Plack>
 
-=pkg Module::Install
+=head3 L<WWW::Mechanize>
 
-=pkg Perl::Tidy
+=head3 L<WWW::RobotRules>
 
-=pkg Perl::Critic
+=head3 L<WWW::UserAgent::Random>
 
-=pkg Perl6::Export::Attrs
-
-=pkg ExtUtils::MakeMaker
-
-=pkg Module::Install::GithubMeta;
+=head3 L<LWP>
 
 
-=pkgroup Web
+=head2 Testing
 
-=pkg IO::Socket::SSL
+=head3 L<Test::Perl::Critic>
 
-=pkg Mojolicious
-
-=pkg Plack
-
-=pkg WWW::Mechanize
-
-=pkg WWW::RobotRules
-
-=pkg WWW::UserAgent::Random
-
-=pkg LWP
+=head3 L<Test::Pod::Coverage>
 
 
-=pkgroup Testing
+=head2 Shell tools
 
-=pkg Test::Perl::Critic
+=head3 L<Term::ReadKey>
 
-=pkg Test::Pod::Coverage
+=head3 L<Term::ReadLine::Gnu>
 
-
-=pkgroup Shell tools
-
-=pkg Term::ReadKey
-
-=pkg Term::ReadLine::Gnu
-
-=pkg Daemon::Control
+=head3 L<Daemon::Control>
 
 
-=pkgroup Data manipulation
+=head2 Data manipulation
 
-=pkg YAML::XS
-
-
-=pkgroup CPAN
-
-=pkg App::cpanoutdated
-
-=pkg Pod::Cpandoc
+=head3 L<YAML::XS>
 
 
+=head2 CPAN
+
+=head3 L<App::cpanoutdated>
+
+=head3 L<Pod::Cpandoc>
 
 
 =head1 AUTHOR
@@ -106,4 +105,3 @@ modify it under the same terms as Perl itself. See L<perlartistic>.
 =cut
 
 # vim: set ts=4 sw=4 et:
-
