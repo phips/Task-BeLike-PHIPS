@@ -18,6 +18,7 @@ requires 'Perl::Critic';
 requires 'Perl6::Export::Attrs';
 requires 'ExtUtils::MakeMaker';
 requires 'Module::Install::GithubMeta';
+requires 'Module::Starter::PBP';
 
 requires 'IO::Socket::SSL';
 requires 'Mojolicious'                  => 4;

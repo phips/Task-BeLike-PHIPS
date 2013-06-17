@@ -6,7 +6,7 @@ use 5.010;
 use vars qw{$VERSION};
 
 BEGIN {
-    $VERSION = '0.0.3';
+    $VERSION = '0.0.4';
 }
  
 1;
@@ -42,7 +42,9 @@ version 0.0.3
 
 =head3 L<ExtUtils::MakeMaker>
 
-=head3 L<Module::Install::GithubMeta;>
+=head3 L<Module::Install::GithubMeta>
+
+=head3 L<Module::Starter::PBP>
 
 
 =head2 Web
