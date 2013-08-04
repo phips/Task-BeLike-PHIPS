@@ -26,9 +26,11 @@ requires:
   ExtUtils::MakeMaker: 0
   IO::Socket::SSL: 0
   LWP: 0
+  LWP::Protocol::https: 0
   Modern::Perl: 0
   Module::Install: 0
   Module::Install::GithubMeta: 0
+  Module::Starter::PBP: 0
   Mojolicious: 4
   Perl6::Export::Attrs: 0
   Perl::Critic: 0
@@ -47,4 +49,4 @@ resources:
   homepage: https://github.com/phips/Task-BeLike-PHIPS/tree
   license: http://dev.perl.org/licenses/
   repository: https://github.com/phips/Task-BeLike-PHIPS.git
-version: 0.0.3
+version: 0.0.5

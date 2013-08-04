@@ -6,7 +6,7 @@ use 5.010;
 use vars qw{$VERSION};
 
 BEGIN {
-    $VERSION = '0.0.4';
+    $VERSION = '0.0.5';
 }
  
 1;
@@ -62,6 +62,8 @@ version 0.0.3
 =head3 L<WWW::UserAgent::Random>
 
 =head3 L<LWP>
+
+=head3 L<LWP::Protocol::https>
 
 
 =head2 Testing

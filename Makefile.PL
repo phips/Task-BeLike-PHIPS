@@ -27,6 +27,7 @@ requires 'WWW::Mechanize';
 requires 'WWW::RobotRules';
 requires 'WWW::UserAgent::Random';
 requires 'LWP';
+requires 'LWP::Protocol::https';
 
 requires 'Term::ReadKey';
 requires 'Term::ReadLine::Gnu';
