@@ -6,7 +6,7 @@ use 5.010;
 use vars qw{$VERSION};
 
 BEGIN {
-    $VERSION = '0.0.5';
+    $VERSION = '0.0.6';
 }
  
 1;
@@ -20,7 +20,7 @@ Task::BeLike::PHIPS - My favourite and frequently used modules
 
 =head1 VERSION
 
-version 0.0.3
+version 0.0.6
 
 =head1 TASK CONTENTS
 
