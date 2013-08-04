@@ -19,6 +19,7 @@ no_index:
     - inc
     - t
 requires:
+  App::Ack: 0
   App::cpanoutdated: 0
   DDP: 0
   Daemon::Control: 0
@@ -49,4 +50,4 @@ resources:
   homepage: https://github.com/phips/Task-BeLike-PHIPS/tree
   license: http://dev.perl.org/licenses/
   repository: https://github.com/phips/Task-BeLike-PHIPS.git
-version: 0.0.5
+version: 0.0.6
