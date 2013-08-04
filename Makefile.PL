@@ -32,6 +32,7 @@ requires 'LWP::Protocol::https';
 requires 'Term::ReadKey';
 requires 'Term::ReadLine::Gnu';
 requires 'Daemon::Control';
+requires 'App::Ack';
 
 requires 'YAML::XS';
 

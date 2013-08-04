@@ -81,6 +81,8 @@ version 0.0.3
 
 =head3 L<Daemon::Control>
 
+=head3 L<App::Ack>
+
 
 =head2 Data manipulation
 
