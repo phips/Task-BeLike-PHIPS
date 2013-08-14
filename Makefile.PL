@@ -28,6 +28,7 @@ requires 'WWW::RobotRules';
 requires 'WWW::UserAgent::Random';
 requires 'LWP';
 requires 'LWP::Protocol::https';
+requires 'WebService::Amazon::Route53';
 
 requires 'Term::ReadKey';
 requires 'Term::ReadLine::Gnu';

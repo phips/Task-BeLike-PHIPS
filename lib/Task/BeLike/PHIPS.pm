@@ -6,7 +6,7 @@ use 5.010;
 use vars qw{$VERSION};
 
 BEGIN {
-    $VERSION = '0.0.6';
+    $VERSION = '0.0.7';
 }
  
 1;
