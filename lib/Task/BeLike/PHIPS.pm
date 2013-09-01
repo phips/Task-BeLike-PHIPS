@@ -6,7 +6,7 @@ use 5.010;
 use vars qw{$VERSION};
 
 BEGIN {
-    $VERSION = '0.0.7';
+    $VERSION = '0.0.8';
 }
  
 1;
@@ -82,6 +82,8 @@ version 0.0.7
 =head3 L<Term::ReadLine::Gnu>
 
 =head3 L<Daemon::Control>
+
+=head3 L<Proc::Daemon>
 
 =head3 L<App::Ack>
 

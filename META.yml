@@ -38,16 +38,18 @@ requires:
   Perl::Tidy: 0
   Plack: 0
   Pod::Cpandoc: 0
+  Proc::Daemon: 0
   Term::ReadKey: 0
   Term::ReadLine::Gnu: 0
   Test::Pod: 0
   WWW::Mechanize: 0
   WWW::RobotRules: 0
   WWW::UserAgent::Random: 0
+  WebService::Amazon::Route53: 0
   YAML::XS: 0
   perl: 5.010001
 resources:
   homepage: https://github.com/phips/Task-BeLike-PHIPS/tree
   license: http://dev.perl.org/licenses/
   repository: https://github.com/phips/Task-BeLike-PHIPS.git
-version: 0.0.6
+version: 0.0.8

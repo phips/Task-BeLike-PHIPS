@@ -33,6 +33,7 @@ requires 'WebService::Amazon::Route53';
 requires 'Term::ReadKey';
 requires 'Term::ReadLine::Gnu';
 requires 'Daemon::Control';
+requires 'Proc::Daemon';
 requires 'App::Ack';
 
 requires 'YAML::XS';
