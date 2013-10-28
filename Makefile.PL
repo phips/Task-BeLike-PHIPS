@@ -42,4 +42,6 @@ requires 'App::cpanoutdated';
 requires 'Pod::Cpandoc';
 requires 'Test::Pod';
 
+requires 'DBIx::Connector';
+
 WriteAll;
