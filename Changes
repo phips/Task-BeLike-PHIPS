@@ -1,5 +1,14 @@
 Revision history for Task-BeLike-PHIPS
 
+0.1.0  Sun Nov  3 22:00:00 2013
+       EV AnyEvent
+
+0.0.9  Mon Oct 28 10:58:14 2013
+       DBIx::Connector
+
+0.0.8  Sun Sep 1 14:04:52 2013
+       Proc::Daemon
+
 0.0.7  Wed Aug 14 23:23:00 2013
        WebService::Amazon::Route53
 
