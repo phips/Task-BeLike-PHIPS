@@ -20,6 +20,9 @@ requires 'ExtUtils::MakeMaker';
 requires 'Module::Install::GithubMeta';
 requires 'Module::Starter::PBP';
 
+requires 'EV';
+requires 'AnyEvent';
+
 requires 'IO::Socket::SSL';
 requires 'Mojolicious'                  => 4;
 requires 'Plack';
