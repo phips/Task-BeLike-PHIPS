@@ -40,6 +40,8 @@ requires 'Proc::Daemon';
 requires 'App::Ack';
 
 requires 'YAML::XS';
+requires 'PDL';
+requires 'Time::Duration';
 
 requires 'App::cpanoutdated';
 requires 'Pod::Cpandoc';

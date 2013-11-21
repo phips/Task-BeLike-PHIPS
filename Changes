@@ -1,5 +1,8 @@
 Revision history for Task-BeLike-PHIPS
 
+0.1.1  Thu Nov 21 17:40:00 2013
+       PDL, Time::Duration
+
 0.1.0  Sun Nov  3 22:00:00 2013
        EV AnyEvent
 
