@@ -19,11 +19,15 @@ no_index:
     - inc
     - t
 requires:
+  AnyEvent: 0
   App::Ack: 0
+  App::FatPacker: 0
   App::cpanoutdated: 0
+  DBIx::Connector: 0
   DDP: 0
   Daemon::Control: 0
   Devel::NYTProf: 0
+  EV: 0
   ExtUtils::MakeMaker: 0
   IO::Socket::SSL: 0
   LWP: 0
@@ -33,6 +37,7 @@ requires:
   Module::Install::GithubMeta: 0
   Module::Starter::PBP: 0
   Mojolicious: 4
+  PDL: 0
   Perl6::Export::Attrs: 0
   Perl::Critic: 0
   Perl::Tidy: 0
@@ -42,6 +47,7 @@ requires:
   Term::ReadKey: 0
   Term::ReadLine::Gnu: 0
   Test::Pod: 0
+  Time::Duration: 0
   WWW::Mechanize: 0
   WWW::RobotRules: 0
   WWW::UserAgent::Random: 0
@@ -49,7 +55,7 @@ requires:
   YAML::XS: 0
   perl: 5.010001
 resources:
-  homepage: https://github.com/phips/Task-BeLike-PHIPS/tree
+  homepage: https://github.com/phips/Task-BeLike-PHIPS
   license: http://dev.perl.org/licenses/
-  repository: https://github.com/phips/Task-BeLike-PHIPS.git
-version: 0.0.8
+  repository: git://github.com/phips/Task-BeLike-PHIPS
+version: 0.1.2
