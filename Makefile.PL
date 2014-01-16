@@ -19,6 +19,7 @@ requires 'Perl6::Export::Attrs';
 requires 'ExtUtils::MakeMaker';
 requires 'Module::Install::GithubMeta';
 requires 'Module::Starter::PBP';
+requires 'App::FatPacker';
 
 requires 'EV';
 requires 'AnyEvent';

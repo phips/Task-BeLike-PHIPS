@@ -6,7 +6,7 @@ use 5.010;
 use vars qw{$VERSION};
 
 BEGIN {
-    $VERSION = '0.1.1';
+    $VERSION = '0.1.2';
 }
  
 1;
@@ -45,6 +45,8 @@ version 0.1.1
 =head3 L<Module::Install::GithubMeta>
 
 =head3 L<Module::Starter::PBP>
+
+=head3 L<App::FatPacker>
 
 
 =head2 Web
